@@ -1,16 +1,33 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Yoon1230/Yoon1230** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Welcome to My GitHub
 
-Here are some ideas to get you started:
+### Hi, I'm Haoyi Zhao
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 Incoming Master's Student @ **USTC**
+
+</div>
+
+---
+
+## 🎓 Education
+
+**University of Science and Technology of China (USTC)**  
+*Institute of Advanced Technology*  
+M.Eng. in Computer Technology  
+`2026.09 – Present`
+
+<br>
+
+**Hefei University of Technology (HFUT)**  
+*School of Computer Science and Information Engineering (School of Artificial Intelligence)*  
+B.Eng. in Computer Science and Technology  
+`2022.09 – 2026.06`
+
+---
+
+<div align="center">
+
+🌐 [Academic Homepage](https://yoon1230.github.io/academic-homepage/)
+
+</div>
